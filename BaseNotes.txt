@@ -1,0 +1,28 @@
+ServiceStack's new HTML powers - the website framework - http://razor.servicestack.net/, https://github.com/ServiceStack/RazorRockstars
+
+ServiceStack - https://github.com/ServiceStack
+
+Links
+
+Kendo UI Web - http://www.telerik.com/download/kendo-ui-web, http://www.telerik.com/download/kendo-ui-web-open-source
+
+Kendo UI Labs - http://kendoui-labs.telerik.com/
+
+Bootstrap - https://github.com/twbs/bootstrap, http://getbootstrap.com/
+
+jQuery - http://jquery.com/
+
+jQuery UI - https://jqueryui.com/
+
+jQuery Mobile - http://jquerymobile.com/
+
+HTML5 Shiv - http://www.jsdelivr.com/, https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js, https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js
+
+Light IIS (Run Asp.net without IIS) - http://www.codeproject.com/Articles/23939/Light-IIS-Run-Asp-net-without-IIS
+
+A powerful HTTP client to test web services - http://www.getpostman.com/
+
+A Beginner's Tutorial on ASP.NET WebApi Hosting(IIS Hosting and Self Hosting) - http://www.codeproject.com/Articles/702747/A-Beginners-Tutorial-on-ASP-NET-WebApi-Hosting-IIS
+
+Self-Hosting in ASP.Net Web API - http://www.c-sharpcorner.com/UploadFile/2b481f/self-hosting-in-Asp-Net-web-api/
+

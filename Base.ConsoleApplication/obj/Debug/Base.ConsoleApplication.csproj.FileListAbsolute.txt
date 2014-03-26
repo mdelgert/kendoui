@@ -1,0 +1,5 @@
+C:\Users\mdelg_000\Documents\Source\tfs\tfs.codeplex.com\TFS25\kendoui\Base.ConsoleApplication\bin\Debug\Base.ConsoleApplication.exe
+C:\Users\mdelg_000\Documents\Source\tfs\tfs.codeplex.com\TFS25\kendoui\Base.ConsoleApplication\bin\Debug\Base.ConsoleApplication.pdb
+C:\Users\mdelg_000\Documents\Source\tfs\tfs.codeplex.com\TFS25\kendoui\Base.ConsoleApplication\obj\Debug\Base.ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\mdelg_000\Documents\Source\tfs\tfs.codeplex.com\TFS25\kendoui\Base.ConsoleApplication\obj\Debug\Base.ConsoleApplication.exe
+C:\Users\mdelg_000\Documents\Source\tfs\tfs.codeplex.com\TFS25\kendoui\Base.ConsoleApplication\obj\Debug\Base.ConsoleApplication.pdb

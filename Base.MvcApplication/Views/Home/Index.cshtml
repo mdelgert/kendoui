@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home - Page";
+}
+
+<p><button type="button" class="btn btn-primary btn-lg btn-block" onclick="location.href='@Url.Action("Index", "KendoUI")'">KendoUI index</button></p>
+
+<p><button type="button" class="btn btn-primary btn-lg btn-block" onclick="location.href='@Url.Action("SampleEditorOne", "KendoUI")'">Sample editor one</button></p>
+
+<p><button type="button" class="btn btn-primary btn-lg btn-block" onclick="location.href='@Url.Action("SampleGridOne", "KendoUI")'">Sample grid one</button></p>
+
+<div id="preview">
+    <h1>Implementation</h1>
+    <h3><b>AppHost</b> <a href="~/Controllers/HomeController.cs">/AppHost.cs</a></h3>
+    <script src="https://gist.github.com/3617557.js"></script>
+</div>
